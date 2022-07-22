@@ -9,7 +9,7 @@ This is a snake game created in python. The goal for the game is for the snake t
 
 ## Getting Started
 
-To visit the deployed site click the following link [ Snake Game]()
+To visit the deployed site click the following link [ ]()
 
 ## Built with
 
