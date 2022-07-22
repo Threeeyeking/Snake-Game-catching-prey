@@ -1,7 +1,7 @@
 # Snake-Game-catching-food-with-python-v1
-# Snake-Game
+
 Snake game with goal to capture food and grow larger.
-# Snake Game
+
 
 ## About
 
