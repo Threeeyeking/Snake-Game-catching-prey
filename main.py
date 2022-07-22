@@ -109,7 +109,7 @@ def gameLoop():
                 game_close = True
  
         our_snake(snake_block, snake_List)
-        Your_score(Length_of_snake - 1)
+        Your_score(Length_of_snake - 1) 
  
         pygame.display.update()
  
