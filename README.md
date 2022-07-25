@@ -19,4 +19,3 @@ To visit the deployed site click the following link [ ]()
 
 Rashad Roman (https://github.com/Threeeyeking)
 
-## preview
