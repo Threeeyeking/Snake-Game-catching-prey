@@ -10,6 +10,7 @@ This is a snake game created in python. The goal for the game is for the snake t
 ## Getting Started
 
 To visit the deployed site click the following link [ ]()
+, or simply launch source code in your live server
 
 ## Built with
 
